@@ -1,0 +1,1 @@
+LightCNN-Att is a lightweight CNN combining residual learning and dual attention to improve feature extraction with low computation. Tested on STL-10, it achieves 59.38% accuracy with ~336K parameters, offering an efficient balance between performance and cost for edge AI systems.
